@@ -1,0 +1,76 @@
+.futuretense{
+	text-align: left;
+	font-size: 60px;
+	background-image: url("book1.jpg");
+	height: 200px;
+}
+
+.theused1{
+	padding-left: 10px;
+	color: orange;
+}
+.theused2{
+	padding-left: 25px;
+	background-color: #F0F8FF;
+}
+
+.title{
+	color: blue;
+	text-align: center;
+}
+.form{
+	padding-left: 10px;
+	color: red;
+	border: solid;
+}
+
+.test{
+	padding-left: 20px;
+	background-color: white;
+	margin-left: 50px;
+	margin-right: 50px;
+	border: solid;
+}
+.eachquestion{
+	padding-left: 24px;
+	background-color: aliceblue;
+	margin-right: 24px;
+	font-size: 35px;
+}
+.eachanswer{
+	padding-left: 24px;
+	margin-right: 24px;
+	background-color: aliceblue;
+	font-size: 25px;
+}
+
+.leftright{
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	display: flex;
+	padding-left: 100px;
+}
+
+.footer{
+	font-size: 40px;
+	margin-right: 50px;
+	text-decoration: none;
+	color: black;
+
+	/*border: 1px solid black;*/
+}
+
+.rightre{
+	height: 200px;
+	background-color: black;
+	/*background: linear-gradient(to right,gray,black,gray);*/
+	color: white;
+
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	word-spacing: 3px;
+	letter-spacing: 3px;
+}
